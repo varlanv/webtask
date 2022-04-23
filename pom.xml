@@ -11,7 +11,7 @@
 
     <properties>
         <hibernateVesion>5.0.5.Final</hibernateVesion>
-        <springVersion>3.2.18.RELEASE</springVersion>
+        <springVersion>5.3.19</springVersion>
     </properties>
 
     <dependencies>
