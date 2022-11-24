@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <hibernateVesion>5.0.5.Final</hibernateVesion>
+        <hibernateVesion>5.3.20.Final</hibernateVesion>
         <springVersion>3.2.18.RELEASE</springVersion>
     </properties>
 
